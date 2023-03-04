@@ -1,0 +1,16 @@
+@media screen and (max-width: 475px) {
+   html, body {
+    width: 100vw;
+    overflow-x: hidden;
+   } 
+   h3 {
+    /* white-space: nowrap; */
+    width: 350px;
+    margin-left: -250px;
+   }
+   p {
+    position: relative;
+    right: 250px;
+    width: 300px;
+   }
+}
